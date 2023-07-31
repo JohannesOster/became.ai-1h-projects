@@ -1,0 +1,5 @@
+numpy
+torch
+notebook
+matplotlib
+imageio
